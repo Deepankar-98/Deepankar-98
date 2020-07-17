@@ -42,12 +42,6 @@ Here are some ideas to get you started:
 
 I am from Kolkata, West Bengal and completed my B.Tech from [Meghnad Saha Institute of Technology](https://msit.edu.in) 🏫.I love to explore and learn about new things.
 
-
-
-<br>
-
-
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```Python
@@ -56,13 +50,8 @@ details = { pronouns: "he" | "him",
           technology: [Machine Learning, Deep Learning, CSS, HTML]}
 ```
 
-
-
 ![Deepankar's github stats](https://github-readme-stats.vercel.app/api?username=Deepankar-98&show_icons=true&hide_border=true)
 
 ---
 
 **⭐️ From [Deepankar-98](https://github.com/Deepankar-98)**
-
-
-
