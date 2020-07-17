@@ -3,13 +3,13 @@
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@DMullick98-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DMullick98)](https://twitter.com/DMullick98)
-[![Linkedin: deepankar-mullick](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepankar-mullick/)](https://www.linkedin.com/in/deepankar-mullick)
+[![Linkedin: deepankar-mullick](https://img.shields.io/badge/-deepankar-mullick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepankar-mullick/)](https://www.linkedin.com/in/deepankar-mullick)
 [![GitHub Deepankar](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Deepankar-98)
 [![Gmail Badge](https://img.shields.io/badge/-deepankar.mullick98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepankar.mullick98@gmail.com)](mailto:deepankar.mullick98@gmail.com)
 
 🏫 I’m currently working at [TCS](https://www.tcs.com) as a Systems's Engineer
 
-🌱 I completed my B-Tech from [Meghnad Saha Institute of Technology](https://msit.edu.in) with major in **Computer Science**
+🌱 I completed my B-Tech in **Computer Science** from [Meghnad Saha Institute of Technology](https://msit.edu.in) in **2019**.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
