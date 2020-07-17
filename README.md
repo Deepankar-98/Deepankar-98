@@ -36,22 +36,26 @@ Here are some ideas to get you started:
 
 <br>
 
+[![Twitter: DMullick98](https://img.shields.io/twitter/follow/DMullick98?style=social)](https://twitter.com/DMullick98)
+[![Linkedin: deepankar-mullick](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepankar-mullick/)](https://www.linkedin.com/in/deepankar-mullick)
+[![GitHub Deepankar](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Deepankar-98)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```Python
+details = { pronouns: "he" | "him",
+          code: [Python, Java, C],
+          technology: [Machine Learning, Deep Learning, CSS, HTML]}
+          ```
+
+
 
 ![Deepankar's github stats](https://github-readme-stats.vercel.app/api?username=Deepankar-98&show_icons=true&hide_border=true)
----
-  <a href="https://www.linkedin.com/in/deepankar-mullick">
-    <img align="left" alt="Deepankar Mullick | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/DMullick98">
-    <img align="left" alt="Deepankar Mullick | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="mailto:deepankar.mullick98@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
 
-<br>
+---
 
 **⭐️ From [Deepankar-98](https://github.com/Deepankar-98)**
 
----
+
 
