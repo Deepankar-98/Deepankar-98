@@ -1,5 +1,5 @@
 # Hi, I'm Deepankar Mullick!  👨‍💻
-<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="200">
+<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="220">
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@DMullick98-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DMullick98)](https://twitter.com/DMullick98)
@@ -21,6 +21,8 @@ details = { pronouns: "he" | "him",
 ```
 
 ![Deepankar's github stats](https://github-readme-stats.vercel.app/api?username=Deepankar-98&show_icons=true&hide_border=true)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
 
