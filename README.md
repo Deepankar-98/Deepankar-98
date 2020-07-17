@@ -4,7 +4,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@DMullick98-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DMullick98)](https://twitter.com/DMullick98)
 [![Linkedin: Deepankar](https://img.shields.io/badge/-Deepankar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepankar-mullick/)](https://www.linkedin.com/in/deepankar-mullick/)
-[![GitHub Deepankar](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Deepankar-98)
+![GitHub followers](https://img.shields.io/github/followers/Deepankar-98?label=Follow&style=social)
 [![Gmail Badge](https://img.shields.io/badge/-deepankar.mullick98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepankar.mullick98@gmail.com)](mailto:deepankar.mullick98@gmail.com)
 
 🏫 I’m currently working at [TCS](https://www.tcs.com) as a Systems's Engineer
@@ -15,9 +15,9 @@
 
 ```Python
 details = { pronouns: "he" | "him",
-          language proficiencies: [Python, Java, C],
-          proficiency: [Machine Learning, Deep Learning, HTML, CSS, Git, ],
-          hobbies: ["playing computer games", "coding"]}
+          language proficiencies: [Python, Java, C ],
+          proficiency: [Machine Learning, Deep Learning, HTML, CSS, Git ],
+          hobbies: [Playing computer games, Coding ]}
 ```
 
 ![Deepankar's github stats](https://github-readme-stats.vercel.app/api?username=Deepankar-98&show_icons=true&hide_border=true)
