@@ -38,9 +38,7 @@ Here are some ideas to get you started:
 
 
 ![Deepankar's github stats](https://github-readme-stats.vercel.app/api?username=Deepankar-98&show_icons=true&hide_border=true)
-
-<br>
-
+---
   <a href="https://www.linkedin.com/in/deepankar-mullick">
     <img align="left" alt="Deepankar Mullick | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -51,7 +49,7 @@ Here are some ideas to get you started:
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
-<br><br><br><br>
+<br>
 
 **⭐️ From [Deepankar-98](https://github.com/Deepankar-98)**
 
