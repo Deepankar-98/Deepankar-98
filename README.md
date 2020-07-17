@@ -1,5 +1,5 @@
 # Hi, I'm Deepankar Mullick!  👨‍💻
-<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="230">
+<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="200">
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@DMullick98-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DMullick98)](https://twitter.com/DMullick98)
@@ -17,7 +17,7 @@
 details = { pronouns: "he" | "him",
           language proficiencies: [Python, Java, C ],
           proficiency: [Machine Learning, Deep Learning, HTML, CSS, Git ],
-          hobbies: [Playing computer games, Coding ]}
+          hobbies: [Playing Computer Games, Coding ]}
 ```
 
 ![Deepankar's github stats](https://github-readme-stats.vercel.app/api?username=Deepankar-98&show_icons=true&hide_border=true)
