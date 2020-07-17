@@ -18,9 +18,21 @@ Here are some ideas to get you started:
 <img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="230">
 <p>
   <em>
-    I’m currently working at TCS<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+    I’m currently working at TCS as a Systems's Engineer&nbsp;<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </em>
 </p>
+
+<p>
+  <em>
+    🌱 I’m currently learning Machine Learning, Deep Learning, NLP, etc.
+  </em>
+</p>
+<p>
+  <em>
+    🌱 I’m currently learning Machine Learning, Deep Learning, NLP, etc.
+  </em>
+</p>
+
 
 <br>
 
