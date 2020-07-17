@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 
 # Hi, I'm Deepankar Mullick!  👨‍💻
 <img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="230">
+
+
+[![Twitter: DMullick98](https://img.shields.io/twitter/follow/DMullick98?style=social)](https://twitter.com/DMullick98)
+[![Linkedin: deepankar-mullick](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepankar-mullick/)](https://www.linkedin.com/in/deepankar-mullick)
+[![GitHub Deepankar](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Deepankar-98)
+[![Gmail Badge](https://img.shields.io/badge/-deepankar.mullick98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepankar.mullick98@gmail.com)](mailto:deepankar.mullick98@gmail.com)
+
+I am from Kolkata, West Bengal and completed my B.Tech from [Meghnad Saha Institute of Technology](https://msit.edu.in) 🏫.I love to explore and learn about new things.
+
 <p>
   <em>
     I’m currently working at TCS as a Systems's Engineer&nbsp;<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
@@ -37,9 +46,6 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Twitter: DMullick98](https://img.shields.io/twitter/follow/DMullick98?style=social)](https://twitter.com/DMullick98)
-[![Linkedin: deepankar-mullick](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepankar-mullick/)](https://www.linkedin.com/in/deepankar-mullick)
-[![GitHub Deepankar](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Deepankar-98)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
