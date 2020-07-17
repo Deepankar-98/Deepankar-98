@@ -27,9 +27,10 @@ Here are some ideas to get you started:
     🌱 I’m currently learning Machine Learning, Deep Learning, NLP, etc.
   </em>
 </p>
+
 <p>
   <em>
-    🌱 I’m currently learning Machine Learning, Deep Learning, NLP, etc.
+    
   </em>
 </p>
 
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
 details = { pronouns: "he" | "him",
           code: [Python, Java, C],
           technology: [Machine Learning, Deep Learning, CSS, HTML]}
-          ```
+```
 
 
 
