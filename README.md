@@ -3,7 +3,7 @@
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@DMullick98-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DMullick98)](https://twitter.com/DMullick98)
-[![Linkedin: Deepankar](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepankar-mullick/)](https://www.linkedin.com/in/deepankar-mullick/)
+[![Linkedin: Deepankar](https://img.shields.io/badge/-Deepankar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepankar-mullick/)](https://www.linkedin.com/in/deepankar-mullick/)
 [![GitHub Deepankar](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Deepankar-98)
 [![Gmail Badge](https://img.shields.io/badge/-deepankar.mullick98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepankar.mullick98@gmail.com)](mailto:deepankar.mullick98@gmail.com)
 
