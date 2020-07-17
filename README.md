@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2> Hi, I'm Deepankar Mullick! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+# Hi, I'm Deepankar Mullick!  👨‍💻
 <img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="230">
 <p>
   <em>
@@ -22,6 +22,26 @@ Here are some ideas to get you started:
   </em>
 </p>
 
+<br>
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+
+![Deepankar's github stats](https://github-readme-stats.vercel.app/api?username=Deepankar-98&show_icons=true&hide_border=true)
+
+<br>
+
+  <a href="https://www.linkedin.com/in/deepankar-mullick">
+    <img align="left" alt="Deepankar Mullick | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/DMullick98">
+    <img align="left" alt="Deepankar Mullick | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="mailto:deepankar.mullick98@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+
+<br><br><br><br>
+
+**⭐️ From [Deepankar-98](https://github.com/Deepankar-98)**
+
+---
 
