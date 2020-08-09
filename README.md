@@ -9,7 +9,7 @@
 
 🏫 I’m currently working at [TCS](https://www.tcs.com) as a Systems's Engineer
 
-🌱 I completed my B-Tech in **Computer Science** from [Meghnad Saha Institute of Technology](https://msit.edu.in) in **2019**.
+🌱 I completed my B-Tech in **Computer Science (CSE)** from [Meghnad Saha Institute of Technology](https://msit.edu.in) in **2019**.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
