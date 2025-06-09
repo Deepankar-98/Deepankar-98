@@ -7,7 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Deepankar-98?label=Follow&style=social)
 [![Gmail Badge](https://img.shields.io/badge/-deepankar.mullick98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepankar.mullick98@gmail.com)](mailto:deepankar.mullick98@gmail.com)
 
-🏫 I’m currently working in [TCS](https://www.tcs.com) as a Assistant Systems Engineer.
+🏫 I’m currently working in [Oracle](https://www.oracle.com) as a Software Developer.
 
 🌱 I completed my B-Tech in **Computer Science (CSE)** from [Meghnad Saha Institute of Technology](https://msit.edu.in) in **2019**.
 
