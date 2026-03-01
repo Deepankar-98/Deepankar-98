@@ -7,7 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Deepankar-98?label=Follow&style=social)
 [![Gmail Badge](https://img.shields.io/badge/-deepankar.mullick98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepankar.mullick98@gmail.com)](mailto:deepankar.mullick98@gmail.com)
 
-🏫 I’m currently working in [Oracle](https://www.oracle.com) as a Software Developer with overall 6 years of hands-on experience in working with LLMs, developing machine learning solutions, building scalable backend services with Django, etc.
+🏫 I’m currently working in [Capgemini](https://www.oracle.com) as a Gen AI Engineer with overall 6.5 years of hands-on experience in working with AI Agents, RAG, Gen AI, LLM, developing machine learning solutions, building scalable backend services with Django, etc.
 
 🌱 I completed my B-Tech in **Computer Science (CSE)** from [Meghnad Saha Institute of Technology](https://msit.edu.in) in **2019**.
 
@@ -15,14 +15,12 @@
 
 ```Python
 details = { pronouns: "he" | "him",
-          language proficiencies: [Python, Java, C ],
-          proficiency: [Machine Learning, Deep Learning, HTML, CSS, Git ],
+          language proficiencies: [Python],
+          proficiency: [AI Agent, RAG, Gen AI, LangChain, LangGraph, Machine Learning, Deep Learning, HTML, CSS, Git ],
           hobbies: [Playing Computer Games, Coding ]}
 ```
 
 ![Deepankar's github stats](https://github-readme-stats.vercel.app/api?username=Deepankar-98&show_icons=true&hide_border=true)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
 
